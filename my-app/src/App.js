@@ -1,5 +1,7 @@
 import "../src/css/main.css";
 
+// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
 import Navbar from "./component/navbar/Navbar";
 
 import Header from "./component/Header/Header";
@@ -16,9 +18,9 @@ function App() {
             
         <Navbar />
 
-        {/* <Header /> */}
+        <Header />
 
-        {/* <Pages /> */}
+        <Pages />
 
         <Contacts />
 
