@@ -5,6 +5,7 @@ import fouth from "./../img/projects/04.jpg";
 import fifth from "./../img/projects/05.jpg";
 import sixth from "./../img/projects/06.jpg";
 
+
 const Pages = () => {
     return ( 
         <main className="section">
